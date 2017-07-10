@@ -1,0 +1,78 @@
+.container img{
+	border-radius: 7px;
+}
+.header .carousel-control img {
+	margin-top:100px;
+}
+/*l轮播图*/
+.carousel-inner>.item>a>img, .carousel-inner>.item>img {
+    line-height: 1;
+    margin: 0 auto;
+}
+.carousel .carousel-control img {
+	margin-top:145px;
+	opacity: 0.5;
+}
+/*解决方案*/
+.container .solutions {
+	margin-top:40px;
+}
+.container .solutions p {
+    line-height: 30px;
+}
+.solutions .col-md-4 {
+	width: 370px;
+	height: 215px;
+	border:1px solid #ccc;
+	border-radius: 10px;
+	padding: 5px;
+	margin-left:15px;
+	float: left;
+	text-align: center;
+}
+
+.solutions .col-md-4:hover {
+	width: 375px;
+	height: 220px;
+	border:1px solid #bbb;
+	box-shadow: 0 0 10px #919191;
+}
+.solutions .col-md-4 img:hover {
+	width: 360px;
+	height: 190px;
+}
+
+
+
+/*关于我们*/
+.container .about {
+	text-align: center;
+	margin-top:40px;
+}
+.about .col-md-3 img:hover {
+	width:100px;
+}
+
+/*新闻咨询*/
+
+.container .section {
+	margin-top:40px;
+
+}
+.section .col-md-5 p {
+	font-size: 13px;
+}
+.section .col-md-7 time {
+	float: right;
+}
+.section .col-md-7 li {
+	border-bottom: 1px dashed #ccc;
+}
+.section .col-md-7 span {
+	border: 7px solid transparent;
+    border-left-color: red;
+    display: inline-block;
+}
+.section .col-md-7 a {
+	line-height: 35px;
+}

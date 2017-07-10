@@ -1,0 +1,50 @@
+/*加入我们*/
+/*前言*/
+.j-top{
+	margin-top:10px;
+	background: #ddd;
+}
+
+
+.container .j-top p,span {
+	padding: 5px;
+}
+.container .j-top p {
+	font-size: 24px;
+	font-weight: bold;
+}
+.container .j-top span {
+	font-weight: bold;
+	display: block;
+
+}
+
+/*岗位要求*/
+.container .post {
+	line-height: 25px;
+	margin-top:20px;
+}
+.container .post:hover {
+	background: #ddd;
+}
+.container .post p {
+	font-weight: bold;
+	font-size: 24px;
+	padding:5px;
+}
+.container .post span {
+	display: block;
+}
+
+
+.container .times .f-time {
+	background: #4C4B4B;
+	color: #fff;
+}
+.container .times .v-time {
+	background: #4764BB;
+	color: #fff;
+}
+.container .page p {
+	text-align: center;
+}
