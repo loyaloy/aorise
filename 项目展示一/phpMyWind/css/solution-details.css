@@ -1,0 +1,121 @@
+/*解决方案文章*/
+a:hover{
+	color:#000;
+}
+/*文章*/
+.headline p{
+	font-size: 30px;
+	line-height: 60px;
+	text-align: center;
+	font-weight: bold;
+	border-bottom: 1px solid #ccc;
+}
+/*更新时间*/
+.container .s-time{
+	text-align: center;
+	color:#bbb;
+	line-height: 20px;
+	border-bottom: 1px solid #ccc;
+}
+.container .s-time time,span{
+	font-size: 16px;
+	color:#727171;
+}
+
+/*前言*/
+.container .foreword{
+	margin-top: 20px;
+	line-height: 26px;
+	border:1px solid #FAD0B5;
+	background: #FFFFF3;
+	padding: 10px;
+}
+
+/*内容*/
+.container .body {
+	line-height: 60px;
+	padding: 10px;
+	overflow: hidden;
+
+}
+
+.container .body p {
+	font-size:14px;
+	text-align: left;
+	font-weight: normal;
+	line-height: 40px;
+	padding: 10px;
+	color: #434242;
+	border:none;
+}
+.container .body .author {
+	float: right;
+	color:#bbb;
+}
+.container .body span {
+	float: right;
+	color: #434242;
+}
+.container .job {
+	line-height: 35px; 
+
+}
+.container strong{
+	font-size: 16px;
+}
+
+.container .next p{
+	font-size:14px;
+	text-align: left;
+	font-weight: normal;
+	line-height: 40px;
+	padding: 10px;
+	color: #434242;
+	border:none;
+}
+.container .next span{
+	float: right;
+	font-size: 16px;
+}
+/*评论数*/
+.container .evaluate p{
+	font-size:14px;
+	display: inline-block;
+	font-weight: normal;
+	line-height: 20px;
+	border-radius: 5px;
+	color: #434242;
+	border:1px solid #ccc;
+	background: #ECECEC;
+	margin-bottom: 10px;
+}
+.evaluate p i{
+	color: #f00;
+}
+
+.container textarea {
+	width: 100%;
+    height: 80px;
+    font-size: 14px;
+    color: #999;
+    border: none;
+    border-bottom: 1px solid #ccc;
+}
+
+.container .e-evaluate{
+	height: 113px;
+	box-shadow: 0 0 30px #EBEAEA inset;
+	border: 1px solid #ccc;
+}
+.container .e-evaluate span{
+	color: #A1A1A1;
+	font-size: 14px;
+}
+.container .e-evaluate .fb {
+	width:148px;
+	height: 25px;
+	float: right;
+	background: transparent;
+	border: none;
+	border-left: 1px solid #ccc;
+}
