@@ -1,7 +1,0 @@
-INSERT INTO `pmw_uploads` VALUES('1','1498796638.jpg','uploads/image/20170630/1498796638.jpg','44236','image','1498788268');
-INSERT INTO `pmw_uploads` VALUES('2','1498789879.jpg','uploads/image/20170630/1498789879.jpg','35213','image','1498789525');
-INSERT INTO `pmw_uploads` VALUES('3','1498791278.jpg','uploads/image/20170630/1498791278.jpg','50348','image','1498789582');
-INSERT INTO `pmw_uploads` VALUES('4','1498795771.png','uploads/image/20170630/1498795771.png','32149','image','1498790802');
-INSERT INTO `pmw_uploads` VALUES('5','1498791247.png','uploads/image/20170630/1498791247.png','31978','image','1498790836');
-INSERT INTO `pmw_uploads` VALUES('6','1498798860.png','uploads/image/20170630/1498798860.png','32365','image','1498790870');
-INSERT INTO `pmw_uploads` VALUES('7','1498791728.png','uploads/image/20170630/1498791728.png','31634','image','1498790904');

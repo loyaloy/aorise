@@ -1,1 +1,0 @@
-{\"status\":\"OK\",\"doname\":\"www.url.com\"}
